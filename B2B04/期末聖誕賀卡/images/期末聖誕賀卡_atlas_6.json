@@ -1,0 +1,139 @@
+﻿{"frames": {
+
+"CachedBmp_4":
+{
+	"frame": {"x":595,"y":781,"w":500,"h":457},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":457},
+	"sourceSize": {"w":500,"h":457}
+},
+"CachedBmp_5":
+{
+	"frame": {"x":0,"y":408,"w":593,"h":475},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":593,"h":475},
+	"sourceSize": {"w":593,"h":475}
+},
+"CachedBmp_9":
+{
+	"frame": {"x":0,"y":0,"w":1090,"h":406},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1090,"h":406},
+	"sourceSize": {"w":1090,"h":406}
+},
+"圖層1影像_1":
+{
+	"frame": {"x":1594,"y":524,"w":226,"h":251},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":251},
+	"sourceSize": {"w":226,"h":251}
+},
+"圖層1影像_10":
+{
+	"frame": {"x":1097,"y":781,"w":126,"h":181},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":181},
+	"sourceSize": {"w":126,"h":181}
+},
+"圖層1影像_11":
+{
+	"frame": {"x":1225,"y":781,"w":124,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":143},
+	"sourceSize": {"w":124,"h":143}
+},
+"圖層1影像_12":
+{
+	"frame": {"x":1351,"y":781,"w":121,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":128},
+	"sourceSize": {"w":121,"h":128}
+},
+"圖層1影像_13":
+{
+	"frame": {"x":820,"y":408,"w":223,"h":349},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":349},
+	"sourceSize": {"w":223,"h":349}
+},
+"圖層1影像_2":
+{
+	"frame": {"x":1822,"y":524,"w":153,"h":243},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":243},
+	"sourceSize": {"w":153,"h":243}
+},
+"圖層1影像_3":
+{
+	"frame": {"x":1822,"y":769,"w":153,"h":243},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":243},
+	"sourceSize": {"w":153,"h":243}
+},
+"圖層1影像_4":
+{
+	"frame": {"x":1092,"y":0,"w":500,"h":779},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":779},
+	"sourceSize": {"w":500,"h":779}
+},
+"圖層1影像_6":
+{
+	"frame": {"x":1594,"y":0,"w":332,"h":522},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":332,"h":522},
+	"sourceSize": {"w":332,"h":522}
+},
+"圖層1影像_7":
+{
+	"frame": {"x":1594,"y":777,"w":153,"h":243},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":243},
+	"sourceSize": {"w":153,"h":243}
+},
+"圖層1影像_8":
+{
+	"frame": {"x":1928,"y":187,"w":79,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":78},
+	"sourceSize": {"w":79,"h":78}
+},
+"圖層1影像_9":
+{
+	"frame": {"x":595,"y":408,"w":223,"h":349},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":223,"h":349},
+	"sourceSize": {"w":223,"h":349}
+},
+"圖層2影像":
+{
+	"frame": {"x":1928,"y":0,"w":70,"h":185},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":185},
+	"sourceSize": {"w":70,"h":185}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "23.0.0.407",
+	"image": "期末聖誕賀卡_atlas_6.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

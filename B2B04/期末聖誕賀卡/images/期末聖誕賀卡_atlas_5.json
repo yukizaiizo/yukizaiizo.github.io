@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"CachedBmp_6":
+{
+	"frame": {"x":989,"y":983,"w":1012,"h":689},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1012,"h":689},
+	"sourceSize": {"w":1012,"h":689}
+},
+"圖層1影像":
+{
+	"frame": {"x":0,"y":0,"w":1136,"h":981},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1136,"h":981},
+	"sourceSize": {"w":1136,"h":981}
+},
+"圖層1影像_5":
+{
+	"frame": {"x":0,"y":983,"w":987,"h":745},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":987,"h":745},
+	"sourceSize": {"w":987,"h":745}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "23.0.0.407",
+	"image": "期末聖誕賀卡_atlas_5.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
