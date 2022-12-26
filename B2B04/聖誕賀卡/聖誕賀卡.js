@@ -3,10 +3,10 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"期末聖誕賀卡_atlas_1", frames: [[0,0,1616,1341]]},
-		{name:"期末聖誕賀卡_atlas_2", frames: [[0,1199,1605,822],[0,0,1793,1197]]},
-		{name:"期末聖誕賀卡_atlas_3", frames: [[989,983,1012,689],[0,0,1136,981],[0,983,987,745]]},
-		{name:"期末聖誕賀卡_atlas_4", frames: [[0,0,1090,406],[0,408,593,475],[595,781,500,457],[1594,524,226,251],[1822,524,153,243],[1822,769,153,243],[1092,0,500,779],[1594,0,332,522],[1594,777,153,243],[1928,187,79,78],[595,408,223,349],[1097,781,126,181],[1225,781,124,143],[1351,781,121,128],[820,408,223,349],[1928,0,70,185]]}
+		{name:"聖誕賀卡_atlas_1", frames: [[0,0,1616,1341]]},
+		{name:"聖誕賀卡_atlas_2", frames: [[0,1199,1605,822],[0,0,1793,1197]]},
+		{name:"聖誕賀卡_atlas_3", frames: [[989,983,1012,689],[0,0,1136,981],[0,983,987,745]]},
+		{name:"聖誕賀卡_atlas_4", frames: [[0,0,1090,406],[0,408,593,475],[595,781,500,457],[1594,524,226,251],[1822,524,153,243],[1822,769,153,243],[1092,0,500,779],[1594,0,332,522],[1594,777,153,243],[1928,187,79,78],[595,408,223,349],[1097,781,126,181],[1225,781,124,143],[1351,781,121,128],[820,408,223,349],[1928,0,70,185]]}
 ];
 
 
@@ -31,56 +31,56 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_9 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_8 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_2"]);
+	this.initialize(ss["聖誕賀卡_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_7 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_2"]);
+	this.initialize(ss["聖誕賀卡_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_6 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_3"]);
+	this.initialize(ss["聖誕賀卡_atlas_3"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_5 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_4 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_3 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_1"]);
+	this.initialize(ss["聖誕賀卡_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_2 = function() {
-	this.initialize(img.CachedBmp_2);
+(lib.CachedBmp_10 = function() {
+	this.initialize(img.CachedBmp_10);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,2069,1543);
 
@@ -92,105 +92,105 @@ p.nominalBounds = new cjs.Rectangle(0,0,2110,1632);
 
 
 (lib.圖層1影像 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_3"]);
+	this.initialize(ss["聖誕賀卡_atlas_3"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層1影像_1 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層1影像_2 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層1影像_3 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層1影像_4 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層1影像_5 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_3"]);
+	this.initialize(ss["聖誕賀卡_atlas_3"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層1影像_6 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層1影像_7 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層1影像_8 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層1影像_9 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層1影像_10 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層1影像_11 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層1影像_12 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層1影像_13 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.圖層2影像 = function() {
-	this.initialize(ss["期末聖誕賀卡_atlas_4"]);
+	this.initialize(ss["聖誕賀卡_atlas_4"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -549,7 +549,7 @@ p.nominalBounds = new cjs.Rectangle(-31.1,0,1258.8999999999999,1055.5);
 
 
 // stage content:
-(lib.期末聖誕賀卡 = function(mode,startPosition,loop,reversed) {
+(lib.聖誕賀卡 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -1140,7 +1140,7 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get(this.instance_17).wait(480));
 
 	// 雪人與狗_svg
-	this.instance_18 = new lib.CachedBmp_2();
+	this.instance_18 = new lib.CachedBmp_10();
 	this.instance_18.setTransform(8.95,12.85,0.5,0.5);
 
 	this.instance_19 = new lib.ClipGroup_2();
@@ -1173,12 +1173,12 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_2.png?1672022956103", id:"CachedBmp_2"},
-		{src:"images/CachedBmp_1.png?1672022956103", id:"CachedBmp_1"},
-		{src:"images/期末聖誕賀卡_atlas_1.png?1672022956006", id:"期末聖誕賀卡_atlas_1"},
-		{src:"images/期末聖誕賀卡_atlas_2.png?1672022956006", id:"期末聖誕賀卡_atlas_2"},
-		{src:"images/期末聖誕賀卡_atlas_3.png?1672022956006", id:"期末聖誕賀卡_atlas_3"},
-		{src:"images/期末聖誕賀卡_atlas_4.png?1672022956006", id:"期末聖誕賀卡_atlas_4"}
+		{src:"images/CachedBmp_10.png", id:"CachedBmp_10"},
+		{src:"images/CachedBmp_1.png", id:"CachedBmp_1"},
+		{src:"images/聖誕賀卡_atlas_1.png", id:"聖誕賀卡_atlas_1"},
+		{src:"images/聖誕賀卡_atlas_2.png", id:"聖誕賀卡_atlas_2"},
+		{src:"images/聖誕賀卡_atlas_3.png", id:"聖誕賀卡_atlas_3"},
+		{src:"images/聖誕賀卡_atlas_4.png", id:"聖誕賀卡_atlas_4"}
 	],
 	preloads: []
 };
