@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>作業13</title>
+    <link type="text/css" rel="stylesheet" href="css/styles.css"/>
+    <link type="text/css" rel="stylesheet" href="css/skitter.styles.css"/>
+    <style>
+        .box_skitter_large {
+            width: 1000px;
+            height: 1000px;
+        }
+
+        body {
+            background-color: #000000;
+        }
+    </style>
+    <script type="text/javascript" src="js/jquery-1.5.2.min.js"></script>
+    <script type="text/javascript" src="js/jquery.skitter.min.js"></script>
+    <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="js/jquery.animate-colors-min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            //$('.box_skitter_large').skitter();
+            $('.box_skitter_large').skitter({hideTools: true});
+            //$('.box_skitter_large').skitter({thumbs: true, label: true});
+            //$('.box_skitter_large').skitter({navigation: true, dots: false});
+        });
+    </script>
+
+</head>
+<body>
+<div class="border_box">
+    <div class="box_skitter box_skitter_large">
+        <ul>
+            <li>
+                <img src="images/01.jpg" class="cubeShow">
+                <div class="label_text">
+                    <p>2003/04/29是我出生的日子，剛出生沒多久的我對這世界充滿好奇</p>
+                </div>
+            </li>
+
+            <li>
+                <img src="images/02.jpg" class="glassCube">
+                <div class="label_text">
+                    <p>人生第一次過聖誕節，獲得了一個可愛的聖誕帽!</p>
+                </div>
+            </li>
+
+            <li>
+                <img src="images/03.jpg" class="cubeJelly">
+                <div class="label_text">
+                    <p>剛滿兩歲的我已經對走路非常熟練，會到處跑跳</p>
+                </div>
+            </li>
+
+            <li>
+                <img src="images/04.jpg" class="directionRight">
+                <div class="label_text">
+                    <p>三歲的我過聖誕節，一樣的帽子但人長大不少</p>
+                </div>
+            </li>
+
+            <li>
+                <img src="images/05.jpg" class="paralell">
+                <div class="label_text">
+                    <p>第一天上幼稚園!不知道可不可以交到朋友</p>
+                </div>
+            </li>
+
+            <li>
+                <img src="images/06.jpg" class="upBars">
+                <div class="label_text">
+                    <p>幼稚園的畢業典禮，當時好像有和大家一起表演跳舞，真是青春......</p>
+                </div>
+            </li>
+
+            <li>
+                <img src="images/07.jpg" class="cubeSpread">
+                <div class="label_text">
+                    <p>國小的我依舊有活力，每天都很有精神</p>
+                </div>
+            </li>
+
+            <li>
+                <img src="images/08.jpg" class="horizontal">
+                <div class="label_text">
+                    <p>國中的照片都不見了，只能拿畢業照，那時候的我應該有比較穩重了吧?</p>
+                </div>
+            </li>
+
+            <li>
+                <img src="images/09.jpg" class="circlesInside">
+                <div class="label_text">
+                    <p>和高中好朋友們一起拍的照片，大家一起比讚好開心</p>
+                </div>
+            </li>
+
+            <li>
+                <img src="images/10.jpg" class="glassBlock">
+                <div class="label_text">
+                    <p>最後一張~最近和朋友一起出去玩的照片，玩得很快樂! END</p>
+                </div>
+            </li>
+
+        </ul>
+    </div>
+</div>
+</body>
+</html>
